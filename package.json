@@ -33,7 +33,7 @@
     "firebase": "^5.8.4",
     "html2canvas": "^1.0.0-alpha.12",
     "jspdf": "^1.5.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ng-pick-datetime": "^5.2.6",
     "ng2-search-filter": "^0.4.7",
     "open-iconic": "^1.1.1",
